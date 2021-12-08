@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/autimatic8"><img src="https://api.daily.dev/devcards/d4c06eae079e42d1973d765ab7281404.png?r=rrg" width="400" alt="Tim's Dev Card"/></a>
+<a href="https://app.daily.dev/autimatic8"><img src="https://github.com/auTIMatic8/auTIMatic8/blob/main/devcard.svg" width="400" alt="Tim's Dev Card"/></a>
 <!--
 **auTIMatic8/auTIMatic8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
